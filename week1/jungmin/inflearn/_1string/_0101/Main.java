@@ -1,8 +1,10 @@
-package week1.jungmin.string.a0101;
+package week1.jungmin.inflearn._1string._0101;
 
 import java.util.Scanner;
 
 // day1: 220629
+// Time: 171ms
+// Memory: 27MB
 
 public class Main {
   public static void main(String[] args){
