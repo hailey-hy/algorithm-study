@@ -5,6 +5,7 @@ import java.util.Scanner;
 //day2: 220630
 //time: 165ms
 //Memory: 27mb
+//소요시간: 10
 
 public class Main {
 
