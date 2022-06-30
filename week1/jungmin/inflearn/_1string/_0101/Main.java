@@ -5,6 +5,7 @@ import java.util.Scanner;
 // day1: 220629
 // Time: 171ms
 // Memory: 27MB
+//소요시간: 8
 
 public class Main {
   public static void main(String[] args){
