@@ -1,4 +1,4 @@
-package week1.seongil.inflearn.string.a0102;
+package week1.seongil.inflearn._1string._0102;
 
 import java.util.Scanner;
 
