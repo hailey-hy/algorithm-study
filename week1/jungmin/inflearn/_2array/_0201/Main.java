@@ -1,4 +1,4 @@
-package week1.jungmin.inflearn._2array;
+package week1.jungmin.inflearn._2array._0201;
 import java.util.Scanner;
 
 //큰 수 출력하기
